@@ -1,0 +1,201 @@
+intake_id,request_date,department,category,requested_amount,status,days_to_resolve,num_followups,requestor
+INT-1001,2024-01-14,Legal,Software,4239.11,Approved,20.9,7,User_44
+INT-1002,2024-01-30,Legal,Logistics,13497.36,Approved,14.9,3,User_33
+INT-1003,2024-01-29,HR,Software,84406.14,Rejected,35.7,5,User_29
+INT-1004,2024-02-24,HR,Consulting,121509.85,Pending,39.0,7,User_22
+INT-1005,2024-01-13,Finance,Hardware,32689.41,Rejected,17.2,5,User_23
+INT-1006,2024-02-18,Finance,Logistics,40045.87,Pending,28.2,2,User_6
+INT-1007,2024-01-25,HR,Consulting,124496.0,Approved,40.7,6,User_46
+INT-1008,2024-01-30,IT,Software,99358.87,Rejected,44.5,8,User_7
+INT-1009,2024-01-27,Operations,Consulting,68284.84,In Review,19.0,4,User_43
+INT-1010,2024-02-01,Finance,Facilities,140529.86,Approved,32.9,3,User_11
+INT-1011,2024-02-11,Operations,Office Supplies,40857.2,In Review,35.3,3,User_50
+INT-1012,2024-01-28,IT,Hardware,123359.49,In Review,26.4,2,User_37
+INT-1013,2024-02-28,Legal,Consulting,32287.67,Approved,41.4,7,User_10
+INT-1014,2024-02-24,Finance,Hardware,37370.81,Approved,22.1,6,User_38
+INT-1015,2024-01-07,Operations,Consulting,33288.45,In Review,29.8,2,User_8
+INT-1016,2024-02-18,Marketing,Facilities,24417.31,Approved,32.5,5,User_39
+INT-1017,2024-01-15,Operations,Logistics,38086.41,Approved,43.2,7,User_44
+INT-1018,2024-02-28,HR,Consulting,115405.51,Approved,23.1,3,User_1
+INT-1019,2024-02-08,Legal,Facilities,39876.66,Approved,19.5,2,User_41
+INT-1020,2024-01-01,HR,Logistics,30237.21,Approved,19.0,8,User_39
+INT-1021,2024-02-09,Finance,Office Supplies,3411.77,In Review,41.2,8,User_16
+INT-1022,2024-01-09,IT,Hardware,131762.44,In Review,16.7,5,User_49
+INT-1023,2024-02-24,HR,Hardware,19694.52,Approved,31.0,4,User_14
+INT-1024,2024-02-17,HR,Facilities,103635.21,Rejected,26.4,7,User_29
+INT-1025,2024-01-30,HR,Office Supplies,18590.13,Approved,24.5,6,User_38
+INT-1026,2024-02-12,Marketing,Software,11113.47,Approved,21.1,2,User_5
+INT-1027,2024-03-01,HR,Hardware,42132.35,Approved,30.7,7,User_16
+INT-1028,2024-02-22,Operations,Office Supplies,28966.28,Pending,27.4,5,User_30
+INT-1029,2024-02-13,Legal,Software,101168.0,In Review,17.1,5,User_7
+INT-1030,2024-02-29,Marketing,Hardware,28936.23,Approved,27.1,4,User_16
+INT-1031,2024-01-02,IT,Office Supplies,121299.33,In Review,17.0,7,User_6
+INT-1032,2024-01-22,Marketing,Hardware,61258.9,Approved,40.8,2,User_25
+INT-1033,2024-03-03,IT,Office Supplies,40147.86,Rejected,28.1,5,User_10
+INT-1034,2024-02-10,Marketing,Consulting,33046.28,Pending,36.8,2,User_4
+INT-1035,2024-03-06,IT,Logistics,71779.88,In Review,30.5,2,User_6
+INT-1036,2024-02-01,Marketing,Software,89457.75,Approved,21.3,2,User_38
+INT-1037,2024-02-10,HR,Software,93097.54,Approved,32.1,6,User_17
+INT-1038,2024-02-08,Marketing,Facilities,107570.67,Approved,26.3,7,User_30
+INT-1039,2024-01-10,Finance,Software,1892.66,Approved,31.5,2,User_35
+INT-1040,2024-02-17,Marketing,Logistics,40147.46,In Review,41.3,3,User_19
+INT-1041,2024-01-02,Marketing,Office Supplies,125144.87,Rejected,33.0,8,User_43
+INT-1042,2024-01-15,HR,Consulting,139797.53,Pending,41.2,4,User_7
+INT-1043,2024-01-27,Legal,Logistics,23739.46,Approved,20.5,4,User_44
+INT-1044,2024-01-12,Legal,Consulting,76058.65,Approved,42.2,2,User_41
+INT-1045,2024-01-21,Operations,Consulting,7090.97,Approved,18.1,4,User_48
+INT-1046,2024-01-20,Operations,Logistics,105997.28,Approved,17.5,7,User_35
+INT-1047,2024-02-16,IT,Consulting,87585.18,Pending,18.0,4,User_3
+INT-1048,2024-02-22,Finance,Hardware,102468.97,Approved,25.0,6,User_40
+INT-1049,2024-01-23,Legal,Hardware,138901.69,Approved,19.0,8,User_27
+INT-1050,2024-02-01,IT,Hardware,110616.39,Approved,42.9,8,User_18
+INT-1051,2024-01-26,Marketing,Facilities,16660.3,In Review,40.6,3,User_30
+INT-1052,2024-01-25,Finance,Consulting,123170.19,In Review,20.9,7,User_26
+INT-1053,2024-03-06,Finance,Consulting,129720.76,In Review,22.7,7,User_26
+INT-1054,2024-01-23,Legal,Logistics,50006.91,Pending,41.2,4,User_38
+INT-1055,2024-02-25,Finance,Software,16706.18,Approved,36.6,4,User_39
+INT-1056,2024-02-25,HR,Software,58086.72,Approved,21.9,7,User_1
+INT-1057,2024-02-16,HR,Logistics,103185.14,In Review,36.8,3,User_28
+INT-1058,2024-02-08,IT,Facilities,138155.24,Approved,34.6,2,User_33
+INT-1059,2024-01-25,Finance,Facilities,61554.74,Approved,23.2,3,User_27
+INT-1060,2024-02-21,Legal,Office Supplies,101759.03,In Review,33.1,4,User_36
+INT-1061,2024-02-11,IT,Consulting,43393.6,Approved,32.0,7,User_30
+INT-1062,2024-01-22,Operations,Office Supplies,101506.27,Approved,38.6,8,User_43
+INT-1063,2024-01-31,IT,Consulting,77560.08,Approved,24.4,8,User_44
+INT-1064,2024-01-10,Finance,Hardware,121081.15,Pending,15.4,5,User_30
+INT-1065,2024-02-01,Operations,Facilities,86562.8,Rejected,25.9,5,User_10
+INT-1066,2024-02-24,Legal,Facilities,1328.95,Rejected,37.9,2,User_15
+INT-1067,2024-01-16,Marketing,Facilities,77934.68,Pending,21.7,8,User_30
+INT-1068,2024-02-26,Marketing,Office Supplies,100302.87,In Review,32.5,8,User_40
+INT-1069,2024-03-01,Legal,Logistics,64297.74,In Review,27.8,3,User_29
+INT-1070,2024-01-31,Finance,Hardware,126059.5,Approved,38.1,5,User_18
+INT-1071,2024-01-11,Operations,Software,107174.96,Approved,24.4,6,User_9
+INT-1072,2024-02-22,Marketing,Hardware,57763.78,Approved,20.6,5,User_22
+INT-1073,2024-01-03,HR,Office Supplies,62658.25,Approved,27.0,8,User_49
+INT-1074,2024-02-23,HR,Office Supplies,71808.47,In Review,23.3,5,User_35
+INT-1075,2024-02-04,Legal,Facilities,82146.78,Approved,20.8,3,User_28
+INT-1076,2024-01-22,Operations,Software,58634.15,Approved,38.7,7,User_30
+INT-1077,2024-01-04,Marketing,Logistics,80351.48,In Review,32.3,7,User_6
+INT-1078,2024-02-11,Legal,Office Supplies,20787.07,Approved,15.6,5,User_14
+INT-1079,2024-02-23,Operations,Consulting,50956.33,In Review,22.6,8,User_17
+INT-1080,2024-01-29,IT,Office Supplies,3397.8,Approved,45.0,4,User_42
+INT-1081,2024-01-03,IT,Facilities,6518.59,Pending,21.7,8,User_40
+INT-1082,2024-02-29,Marketing,Hardware,19370.04,Approved,31.5,3,User_45
+INT-1083,2024-01-21,Finance,Consulting,25584.48,Approved,37.2,2,User_20
+INT-1084,2024-02-20,IT,Logistics,4338.92,Approved,35.0,5,User_46
+INT-1085,2024-02-08,Marketing,Software,89018.63,In Review,21.5,7,User_44
+INT-1086,2024-02-24,HR,Software,119535.97,Approved,15.3,6,User_43
+INT-1087,2024-03-03,Finance,Software,76141.14,Approved,40.3,8,User_7
+INT-1088,2024-01-23,Operations,Consulting,95519.97,In Review,35.9,5,User_47
+INT-1089,2024-02-29,HR,Facilities,40877.32,In Review,30.7,5,User_28
+INT-1090,2024-02-05,Legal,Logistics,40625.13,In Review,39.8,2,User_29
+INT-1091,2024-02-11,Marketing,Office Supplies,85692.52,Approved,24.4,5,User_12
+INT-1092,2024-02-05,Operations,Hardware,53546.33,Approved,22.7,6,User_36
+INT-1093,2024-01-31,IT,Logistics,142235.36,Pending,36.3,5,User_45
+INT-1094,2024-01-29,Operations,Facilities,106920.44,Approved,14.5,4,User_26
+INT-1095,2024-02-14,Legal,Hardware,46277.8,Approved,28.7,6,User_28
+INT-1096,2024-01-30,Legal,Logistics,49953.3,Rejected,22.4,4,User_8
+INT-1097,2024-01-24,Legal,Hardware,47674.42,Rejected,43.5,7,User_13
+INT-1098,2024-02-06,Marketing,Facilities,72887.69,Rejected,44.3,6,User_7
+INT-1099,2024-01-17,Marketing,Consulting,34508.73,Approved,14.4,6,User_18
+INT-1100,2024-03-03,IT,Software,83227.17,Approved,17.9,8,User_7
+INT-1101,2024-02-02,IT,Logistics,43008.73,Approved,1.4,0,User_31
+INT-1102,2024-01-20,IT,Software,60405.76,Pending,2.1,0,User_10
+INT-1103,2024-01-29,HR,Consulting,13234.55,Approved,1.9,1,User_50
+INT-1104,2024-02-09,HR,Office Supplies,67851.91,Approved,2.7,1,User_37
+INT-1105,2024-01-28,HR,Software,91639.82,Rejected,2.9,0,User_17
+INT-1106,2024-02-22,Legal,Software,23980.04,Approved,0.7,0,User_29
+INT-1107,2024-02-28,Legal,Logistics,70751.92,Pending,1.2,1,User_5
+INT-1108,2024-02-24,Legal,Hardware,138624.7,Rejected,2.1,0,User_8
+INT-1109,2024-01-08,HR,Hardware,97321.39,In Review,2.6,0,User_11
+INT-1110,2024-02-29,Finance,Logistics,112469.18,Approved,1.2,0,User_45
+INT-1111,2024-01-11,Finance,Facilities,60675.02,Approved,1.8,1,User_39
+INT-1112,2024-01-03,IT,Office Supplies,110312.82,Approved,0.6,0,User_49
+INT-1113,2024-02-05,Legal,Consulting,86648.92,Rejected,0.9,1,User_12
+INT-1114,2024-02-22,HR,Office Supplies,95400.32,Approved,0.7,1,User_22
+INT-1115,2024-02-06,Finance,Facilities,16137.68,Approved,1.5,1,User_43
+INT-1116,2024-02-21,Operations,Logistics,5986.22,Pending,1.1,0,User_33
+INT-1117,2024-03-04,IT,Facilities,130470.44,Approved,0.6,1,User_41
+INT-1118,2024-03-03,Operations,Software,30931.96,Approved,2.8,1,User_8
+INT-1119,2024-02-22,IT,Facilities,91526.31,Approved,0.9,0,User_6
+INT-1120,2024-02-07,Marketing,Software,69486.46,Pending,2.6,1,User_33
+INT-1121,2024-01-19,Legal,Consulting,62615.81,Approved,1.7,1,User_25
+INT-1122,2024-02-23,Marketing,Logistics,76482.01,In Review,2.7,1,User_22
+INT-1123,2024-01-20,HR,Consulting,123172.15,Approved,1.2,1,User_29
+INT-1124,2024-02-11,HR,Office Supplies,52096.03,Approved,1.9,1,User_13
+INT-1125,2024-02-10,Legal,Hardware,85983.75,Approved,2.4,0,User_48
+INT-1126,2024-03-04,Operations,Facilities,137057.81,Approved,3.0,0,User_3
+INT-1127,2024-01-13,Marketing,Logistics,144820.36,Approved,0.8,1,User_34
+INT-1128,2024-01-10,Operations,Software,108505.35,Approved,2.1,0,User_31
+INT-1129,2024-02-18,Finance,Consulting,93677.28,Approved,0.7,1,User_21
+INT-1130,2024-01-31,Legal,Facilities,133172.08,Approved,1.9,0,User_41
+INT-1131,2024-01-13,Legal,Consulting,149615.18,Rejected,1.6,0,User_29
+INT-1132,2024-02-07,Marketing,Facilities,45270.18,Pending,1.3,0,User_23
+INT-1133,2024-01-22,Finance,Office Supplies,22262.68,Approved,1.9,0,User_12
+INT-1134,2024-01-30,IT,Logistics,130690.52,Approved,1.1,0,User_30
+INT-1135,2024-02-06,Legal,Consulting,69205.79,Approved,2.7,1,User_44
+INT-1136,2024-02-24,HR,Hardware,11542.35,In Review,3.0,1,User_45
+INT-1137,2024-01-14,Finance,Office Supplies,126872.94,Approved,1.5,1,User_16
+INT-1138,2024-02-20,Operations,Logistics,54164.39,Approved,2.2,0,User_18
+INT-1139,2024-02-06,IT,Logistics,129827.58,Rejected,2.9,1,User_50
+INT-1140,2024-01-18,Marketing,Logistics,120388.83,Approved,1.0,1,User_41
+INT-1141,2024-01-17,IT,Facilities,97127.92,Approved,1.6,1,User_6
+INT-1142,2024-03-05,Finance,Consulting,112248.39,Approved,0.8,1,User_18
+INT-1143,2024-02-13,Marketing,Consulting,137150.32,In Review,2.9,1,User_8
+INT-1144,2024-02-16,Operations,Software,21543.17,In Review,2.7,1,User_6
+INT-1145,2024-02-18,Operations,Software,40036.56,Pending,1.4,1,User_41
+INT-1146,2024-01-29,Finance,Software,101388.07,Approved,2.0,1,User_42
+INT-1147,2024-01-15,IT,Facilities,123666.38,In Review,1.3,1,User_9
+INT-1148,2024-02-19,IT,Software,46002.51,Approved,0.7,0,User_30
+INT-1149,2024-02-23,Finance,Facilities,142432.42,Approved,1.9,0,User_42
+INT-1150,2024-01-28,IT,Office Supplies,92540.01,In Review,1.2,1,User_29
+INT-1151,2024-01-08,Operations,Hardware,128389.8,Pending,2.2,1,User_26
+INT-1152,2024-01-28,Finance,Hardware,145246.93,In Review,2.6,0,User_42
+INT-1153,2024-01-27,Legal,Logistics,145678.45,Pending,1.3,0,User_5
+INT-1154,2024-01-01,HR,Hardware,88164.27,In Review,1.1,0,User_18
+INT-1155,2024-01-17,Marketing,Hardware,81262.21,Rejected,0.8,0,User_1
+INT-1156,2024-02-23,Finance,Hardware,88533.51,Pending,1.2,0,User_34
+INT-1157,2024-02-27,IT,Facilities,10001.93,Approved,1.4,0,User_33
+INT-1158,2024-02-28,Marketing,Logistics,6983.07,Rejected,2.7,1,User_42
+INT-1159,2024-03-03,IT,Software,149788.72,In Review,1.6,0,User_46
+INT-1160,2024-02-05,Operations,Software,134940.38,Approved,0.9,0,User_40
+INT-1161,2024-02-28,Legal,Logistics,82479.29,Approved,3.0,1,User_33
+INT-1162,2024-02-25,HR,Office Supplies,15327.18,Rejected,2.6,0,User_29
+INT-1163,2024-02-10,Marketing,Office Supplies,51170.28,Approved,1.5,0,User_28
+INT-1164,2024-01-09,Finance,Facilities,38606.02,In Review,2.2,1,User_6
+INT-1165,2024-01-08,IT,Software,65065.54,Rejected,1.4,0,User_38
+INT-1166,2024-01-07,HR,Logistics,49782.07,Pending,1.4,1,User_19
+INT-1167,2024-01-29,HR,Consulting,53071.1,Approved,1.0,1,User_7
+INT-1168,2024-01-04,Finance,Logistics,55450.38,Rejected,1.9,1,User_39
+INT-1169,2024-02-13,Legal,Facilities,40483.43,Approved,2.3,1,User_23
+INT-1170,2024-01-04,IT,Hardware,130544.47,Approved,1.5,0,User_6
+INT-1171,2024-02-09,Legal,Logistics,32662.37,Approved,1.4,1,User_47
+INT-1172,2024-01-11,Finance,Logistics,89635.45,In Review,0.9,0,User_18
+INT-1173,2024-03-06,Operations,Facilities,63890.21,Approved,1.5,0,User_8
+INT-1174,2024-01-06,Finance,Office Supplies,17078.02,Approved,2.0,1,User_15
+INT-1175,2024-02-02,Operations,Logistics,8689.9,Approved,2.9,0,User_19
+INT-1176,2024-01-30,Finance,Software,1655.62,Rejected,0.9,1,User_33
+INT-1177,2024-02-25,HR,Facilities,121026.93,Pending,2.7,0,User_2
+INT-1178,2024-02-07,Operations,Software,129385.45,Approved,1.9,1,User_8
+INT-1179,2024-02-16,Operations,Software,144946.85,Approved,2.9,1,User_6
+INT-1180,2024-02-09,Operations,Software,36875.81,Approved,1.8,1,User_48
+INT-1181,2024-03-06,Finance,Hardware,50293.76,Approved,1.8,0,User_13
+INT-1182,2024-01-14,Finance,Consulting,109243.18,In Review,2.5,0,User_10
+INT-1183,2024-01-23,Finance,Hardware,26438.1,Approved,2.4,0,User_50
+INT-1184,2024-02-10,Legal,Office Supplies,69860.98,Approved,1.9,1,User_10
+INT-1185,2024-02-15,Operations,Software,70603.7,Approved,2.5,0,User_33
+INT-1186,2024-01-10,IT,Consulting,69530.5,Pending,1.4,1,User_42
+INT-1187,2024-02-27,IT,Logistics,89314.93,Approved,2.0,0,User_37
+INT-1188,2024-02-27,Legal,Hardware,48568.25,Approved,0.9,0,User_7
+INT-1189,2024-02-26,Finance,Facilities,13107.21,Approved,0.6,1,User_34
+INT-1190,2024-02-13,HR,Logistics,24232.56,Approved,1.2,1,User_44
+INT-1191,2024-02-19,HR,Software,118489.43,Approved,0.7,0,User_19
+INT-1192,2024-02-12,Finance,Facilities,127809.16,In Review,2.0,0,User_6
+INT-1193,2024-01-17,HR,Facilities,21643.54,Approved,2.9,1,User_39
+INT-1194,2024-01-12,Legal,Software,46782.49,Approved,2.5,0,User_42
+INT-1195,2024-02-13,Legal,Office Supplies,76519.03,Pending,1.3,0,User_50
+INT-1196,2024-03-05,Operations,Hardware,34368.19,Pending,0.7,0,User_50
+INT-1197,2024-02-18,HR,Facilities,132610.48,Pending,1.3,0,User_10
+INT-1198,2024-02-26,Marketing,Hardware,124786.09,Rejected,2.5,0,User_3
+INT-1199,2024-02-27,Operations,Consulting,101616.26,Approved,1.6,1,User_15
+INT-1200,2024-02-17,HR,Hardware,46765.45,In Review,1.7,0,User_44

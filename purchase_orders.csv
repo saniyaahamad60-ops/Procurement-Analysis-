@@ -1,0 +1,301 @@
+po_id,intake_id,vendor_id,vendor_name,po_date,category,department,po_amount,status,cycle_time_days,error_flag,compliance_flag
+PO-2001,INT-1042,V010,BuildRight Facilities,2024-01-26,Office Supplies,Operations,384949.84,Pending Approval,15,No,Compliant
+PO-2002,INT-1183,V010,BuildRight Facilities,2024-01-16,Consulting,Marketing,27037.72,Closed,12,No,Non-Compliant
+PO-2003,INT-1057,V005,CloudSystems Ltd,2024-02-27,Hardware,IT,137122.86,Cancelled,9,No,Non-Compliant
+PO-2004,INT-1096,V006,EcoSupply Co,2024-01-29,Office Supplies,IT,27575.19,Closed,10,No,Non-Compliant
+PO-2005,INT-1010,V001,TechNova Solutions,2024-02-06,Software,Finance,419748.97,Closed,19,Yes,Non-Compliant
+PO-2006,INT-1005,V008,SwiftShip Partners,2024-02-02,Hardware,Legal,379661.74,Closed,16,Yes,Non-Compliant
+PO-2007,INT-1061,V004,OfficeEdge Corp,2024-02-08,Logistics,Marketing,470172.75,Closed,13,Yes,Compliant
+PO-2008,INT-1128,V002,GreenBridge Logistics,2024-01-03,Hardware,IT,210492.95,Pending Approval,14,Yes,Non-Compliant
+PO-2009,INT-1062,V009,CapitalSoft,2024-02-23,Hardware,HR,359553.62,Open,7,No,Compliant
+PO-2010,INT-1130,V003,PrimeConsult Inc,2024-03-05,Facilities,Legal,43721.36,On Hold,8,No,Compliant
+PO-2011,INT-1192,V009,CapitalSoft,2024-01-03,Office Supplies,IT,436792.39,Open,13,Yes,Compliant
+PO-2012,INT-1035,V006,EcoSupply Co,2024-01-06,Consulting,IT,121321.84,Closed,8,No,Compliant
+PO-2013,INT-1162,V006,EcoSupply Co,2024-01-24,Consulting,HR,406940.92,Open,19,No,Compliant
+PO-2014,INT-1052,V003,PrimeConsult Inc,2024-01-06,Facilities,IT,388319.01,Closed,11,Yes,Non-Compliant
+PO-2015,INT-1193,V006,EcoSupply Co,2024-01-25,Logistics,Finance,199713.8,Pending Approval,14,Yes,Non-Compliant
+PO-2016,INT-1103,V005,CloudSystems Ltd,2024-02-26,Software,Finance,433033.34,Closed,8,Yes,Compliant
+PO-2017,INT-1022,V007,DataMind Analytics,2024-02-24,Hardware,Finance,248605.41,Closed,19,No,Compliant
+PO-2018,INT-1021,V002,GreenBridge Logistics,2024-02-11,Logistics,Operations,497553.98,Open,11,Yes,Non-Compliant
+PO-2019,INT-1115,V005,CloudSystems Ltd,2024-01-06,Office Supplies,Finance,301708.19,Closed,18,No,Compliant
+PO-2020,INT-1094,V006,EcoSupply Co,2024-03-06,Office Supplies,HR,138003.12,On Hold,7,Yes,Compliant
+PO-2021,INT-1018,V003,PrimeConsult Inc,2024-01-31,Hardware,IT,424485.99,Closed,14,Yes,Non-Compliant
+PO-2022,INT-1096,V006,EcoSupply Co,2024-02-26,Office Supplies,Finance,474784.09,Open,9,No,Compliant
+PO-2023,INT-1030,V002,GreenBridge Logistics,2024-01-04,Hardware,HR,265200.48,Closed,17,Yes,Non-Compliant
+PO-2024,INT-1055,V003,PrimeConsult Inc,2024-02-06,Logistics,Operations,194106.7,Closed,11,Yes,Compliant
+PO-2025,INT-1175,V008,SwiftShip Partners,2024-02-10,Software,Marketing,68728.48,Open,9,No,Non-Compliant
+PO-2026,INT-1093,V006,EcoSupply Co,2024-03-06,Software,Legal,275448.58,Open,11,Yes,Non-Compliant
+PO-2027,INT-1142,V004,OfficeEdge Corp,2024-02-17,Hardware,IT,396240.77,Open,14,Yes,Compliant
+PO-2028,INT-1135,V008,SwiftShip Partners,2024-02-22,Hardware,HR,306362.23,Open,11,No,Compliant
+PO-2029,INT-1175,V007,DataMind Analytics,2024-02-14,Software,HR,63538.06,Closed,8,No,Compliant
+PO-2030,INT-1015,V003,PrimeConsult Inc,2024-01-16,Facilities,HR,294305.21,Pending Approval,9,No,Compliant
+PO-2031,INT-1133,V009,CapitalSoft,2024-02-06,Consulting,Marketing,83163.88,Closed,18,Yes,Compliant
+PO-2032,INT-1137,V002,GreenBridge Logistics,2024-01-12,Hardware,Finance,317893.49,Closed,9,Yes,Compliant
+PO-2033,INT-1087,V009,CapitalSoft,2024-01-06,Hardware,Legal,296312.41,Closed,9,No,Compliant
+PO-2034,INT-1107,V001,TechNova Solutions,2024-01-04,Software,IT,474324.88,Pending Approval,11,Yes,Compliant
+PO-2035,INT-1077,V008,SwiftShip Partners,2024-02-28,Logistics,Legal,145546.16,On Hold,14,Yes,Compliant
+PO-2036,INT-1156,V002,GreenBridge Logistics,2024-01-19,Software,Legal,79882.14,Closed,14,Yes,Compliant
+PO-2037,INT-1132,V006,EcoSupply Co,2024-01-14,Consulting,Legal,367365.68,Cancelled,13,Yes,Compliant
+PO-2038,INT-1075,V006,EcoSupply Co,2024-02-19,Office Supplies,Marketing,62138.43,Closed,9,Yes,Non-Compliant
+PO-2039,INT-1185,V010,BuildRight Facilities,2024-02-10,Hardware,Operations,481380.24,Cancelled,20,Yes,Compliant
+PO-2040,INT-1024,V004,OfficeEdge Corp,2024-02-20,Office Supplies,Marketing,497988.74,Closed,11,No,Non-Compliant
+PO-2041,INT-1153,V009,CapitalSoft,2024-03-01,Hardware,Operations,108357.07,Closed,7,Yes,Compliant
+PO-2042,INT-1094,V005,CloudSystems Ltd,2024-01-06,Software,HR,423739.01,Closed,11,Yes,Compliant
+PO-2043,INT-1130,V007,DataMind Analytics,2024-02-27,Logistics,IT,281346.62,Closed,11,Yes,Compliant
+PO-2044,INT-1087,V009,CapitalSoft,2024-02-16,Logistics,Finance,340518.92,Open,8,No,Compliant
+PO-2045,INT-1183,V003,PrimeConsult Inc,2024-02-12,Logistics,Marketing,255052.14,Closed,7,Yes,Non-Compliant
+PO-2046,INT-1082,V008,SwiftShip Partners,2024-01-21,Office Supplies,HR,75321.39,Cancelled,9,Yes,Compliant
+PO-2047,INT-1126,V007,DataMind Analytics,2024-02-08,Facilities,HR,421458.36,Closed,15,No,Compliant
+PO-2048,INT-1186,V008,SwiftShip Partners,2024-01-04,Consulting,IT,166288.56,Open,13,No,Compliant
+PO-2049,INT-1059,V010,BuildRight Facilities,2024-01-07,Consulting,Operations,483568.28,Pending Approval,19,No,Compliant
+PO-2050,INT-1175,V010,BuildRight Facilities,2024-02-01,Hardware,Operations,262591.93,Pending Approval,19,No,Non-Compliant
+PO-2051,INT-1106,V001,TechNova Solutions,2024-01-27,Facilities,HR,55837.87,Open,12,No,Non-Compliant
+PO-2052,INT-1133,V007,DataMind Analytics,2024-01-27,Logistics,HR,460339.95,Cancelled,18,Yes,Non-Compliant
+PO-2053,INT-1088,V009,CapitalSoft,2024-02-15,Facilities,Finance,239707.12,Closed,9,No,Compliant
+PO-2054,INT-1077,V005,CloudSystems Ltd,2024-02-06,Office Supplies,HR,96939.82,Open,15,Yes,Non-Compliant
+PO-2055,INT-1032,V004,OfficeEdge Corp,2024-02-18,Facilities,Legal,245012.54,Closed,15,Yes,Compliant
+PO-2056,INT-1114,V007,DataMind Analytics,2024-02-02,Hardware,Finance,145935.87,Open,18,Yes,Compliant
+PO-2057,INT-1028,V008,SwiftShip Partners,2024-01-31,Hardware,Marketing,414147.9,Open,15,Yes,Non-Compliant
+PO-2058,INT-1106,V004,OfficeEdge Corp,2024-02-12,Facilities,IT,452686.91,Open,10,Yes,Non-Compliant
+PO-2059,INT-1168,V008,SwiftShip Partners,2024-03-01,Facilities,IT,385612.26,Open,15,Yes,Compliant
+PO-2060,INT-1167,V008,SwiftShip Partners,2024-01-30,Hardware,Legal,378199.62,Open,11,Yes,Non-Compliant
+PO-2061,INT-1010,V009,CapitalSoft,2024-02-20,Facilities,Legal,425316.22,Open,9,No,Non-Compliant
+PO-2062,INT-1146,V008,SwiftShip Partners,2024-01-14,Facilities,Marketing,481103.56,Cancelled,7,Yes,Compliant
+PO-2063,INT-1120,V006,EcoSupply Co,2024-02-04,Office Supplies,Finance,494560.64,Closed,14,Yes,Compliant
+PO-2064,INT-1189,V004,OfficeEdge Corp,2024-02-13,Consulting,IT,82084.64,Closed,11,Yes,Non-Compliant
+PO-2065,INT-1132,V005,CloudSystems Ltd,2024-02-11,Facilities,HR,378884.09,Open,20,No,Compliant
+PO-2066,INT-1002,V002,GreenBridge Logistics,2024-02-03,Facilities,Operations,48597.17,On Hold,14,Yes,Non-Compliant
+PO-2067,INT-1003,V007,DataMind Analytics,2024-02-03,Office Supplies,Marketing,377124.57,On Hold,11,No,Compliant
+PO-2068,INT-1176,V006,EcoSupply Co,2024-03-05,Hardware,Legal,32000.04,Open,11,Yes,Compliant
+PO-2069,INT-1057,V005,CloudSystems Ltd,2024-01-18,Software,Legal,319716.95,Cancelled,12,No,Non-Compliant
+PO-2070,INT-1194,V008,SwiftShip Partners,2024-01-28,Office Supplies,Marketing,374119.68,Closed,13,No,Compliant
+PO-2071,INT-1020,V004,OfficeEdge Corp,2024-01-15,Logistics,Legal,436694.39,Open,14,No,Compliant
+PO-2072,INT-1114,V001,TechNova Solutions,2024-01-15,Logistics,HR,101876.23,Closed,9,Yes,Compliant
+PO-2073,INT-1034,V004,OfficeEdge Corp,2024-03-06,Logistics,Legal,244925.16,Cancelled,14,Yes,Compliant
+PO-2074,INT-1102,V007,DataMind Analytics,2024-02-02,Logistics,Operations,29810.65,Closed,19,Yes,Non-Compliant
+PO-2075,INT-1016,V001,TechNova Solutions,2024-01-09,Hardware,Legal,289577.32,Open,12,Yes,Compliant
+PO-2076,INT-1098,V008,SwiftShip Partners,2024-02-27,Consulting,IT,205024.6,Pending Approval,19,No,Compliant
+PO-2077,INT-1031,V007,DataMind Analytics,2024-01-23,Software,Operations,341682.45,Closed,15,Yes,Compliant
+PO-2078,INT-1077,V009,CapitalSoft,2024-02-29,Logistics,Operations,64546.2,On Hold,20,Yes,Non-Compliant
+PO-2079,INT-1071,V009,CapitalSoft,2024-01-25,Logistics,Operations,190258.96,Open,14,Yes,Non-Compliant
+PO-2080,INT-1018,V002,GreenBridge Logistics,2024-01-13,Facilities,IT,210201.06,Pending Approval,7,Yes,Non-Compliant
+PO-2081,INT-1103,V010,BuildRight Facilities,2024-02-26,Office Supplies,IT,299294.66,Pending Approval,7,Yes,Non-Compliant
+PO-2082,INT-1060,V004,OfficeEdge Corp,2024-02-10,Hardware,HR,377438.47,Pending Approval,9,No,Compliant
+PO-2083,INT-1106,V010,BuildRight Facilities,2024-02-08,Facilities,HR,409372.86,Open,9,No,Non-Compliant
+PO-2084,INT-1127,V005,CloudSystems Ltd,2024-01-07,Logistics,IT,474311.61,Cancelled,9,No,Compliant
+PO-2085,INT-1039,V006,EcoSupply Co,2024-02-08,Facilities,Legal,191196.16,Closed,18,No,Compliant
+PO-2086,INT-1015,V007,DataMind Analytics,2024-02-22,Logistics,Marketing,237285.89,Pending Approval,11,Yes,Compliant
+PO-2087,INT-1116,V007,DataMind Analytics,2024-02-17,Logistics,HR,67912.28,Open,10,Yes,Non-Compliant
+PO-2088,INT-1011,V002,GreenBridge Logistics,2024-01-10,Facilities,HR,414873.74,Open,13,No,Compliant
+PO-2089,INT-1004,V004,OfficeEdge Corp,2024-01-28,Facilities,HR,336053.81,Open,10,Yes,Compliant
+PO-2090,INT-1102,V004,OfficeEdge Corp,2024-01-31,Software,Legal,373692.73,Pending Approval,10,No,Non-Compliant
+PO-2091,INT-1093,V009,CapitalSoft,2024-03-06,Consulting,Finance,190950.21,Closed,12,Yes,Compliant
+PO-2092,INT-1095,V008,SwiftShip Partners,2024-02-10,Software,Operations,401605.49,Pending Approval,19,Yes,Non-Compliant
+PO-2093,INT-1150,V007,DataMind Analytics,2024-02-23,Logistics,IT,432178.34,Pending Approval,7,Yes,Compliant
+PO-2094,INT-1141,V005,CloudSystems Ltd,2024-02-13,Hardware,Marketing,165602.78,Closed,20,Yes,Compliant
+PO-2095,INT-1036,V005,CloudSystems Ltd,2024-03-03,Facilities,Operations,321205.53,Closed,9,Yes,Non-Compliant
+PO-2096,INT-1196,V003,PrimeConsult Inc,2024-01-01,Facilities,HR,478661.21,Closed,20,Yes,Non-Compliant
+PO-2097,INT-1117,V007,DataMind Analytics,2024-02-17,Facilities,Marketing,116485.26,Pending Approval,7,Yes,Compliant
+PO-2098,INT-1002,V001,TechNova Solutions,2024-02-22,Facilities,HR,333710.61,Closed,14,No,Non-Compliant
+PO-2099,INT-1179,V001,TechNova Solutions,2024-02-25,Logistics,IT,361374.17,Closed,11,Yes,Compliant
+PO-2100,INT-1091,V003,PrimeConsult Inc,2024-02-04,Software,IT,262668.32,Open,16,No,Compliant
+PO-2101,INT-1176,V007,DataMind Analytics,2024-01-11,Consulting,IT,479689.6,Closed,10,Yes,Compliant
+PO-2102,INT-1022,V001,TechNova Solutions,2024-03-04,Office Supplies,IT,190252.75,Closed,7,Yes,Non-Compliant
+PO-2103,INT-1059,V007,DataMind Analytics,2024-01-28,Consulting,Legal,283362.46,Cancelled,8,No,Non-Compliant
+PO-2104,INT-1169,V010,BuildRight Facilities,2024-01-05,Consulting,Operations,24234.42,Open,11,No,Compliant
+PO-2105,INT-1077,V003,PrimeConsult Inc,2024-01-21,Software,Finance,480773.13,Closed,19,No,Non-Compliant
+PO-2106,INT-1194,V010,BuildRight Facilities,2024-01-18,Logistics,Marketing,417490.63,Closed,15,Yes,Compliant
+PO-2107,INT-1088,V002,GreenBridge Logistics,2024-02-20,Facilities,HR,487187.34,Open,13,Yes,Non-Compliant
+PO-2108,INT-1142,V006,EcoSupply Co,2024-02-18,Facilities,IT,137390.19,On Hold,14,Yes,Compliant
+PO-2109,INT-1064,V007,DataMind Analytics,2024-01-10,Facilities,Marketing,293351.69,Closed,19,No,Compliant
+PO-2110,INT-1093,V002,GreenBridge Logistics,2024-01-14,Hardware,Finance,190620.0,Pending Approval,9,No,Compliant
+PO-2111,INT-1048,V002,GreenBridge Logistics,2024-02-25,Consulting,IT,222923.2,Pending Approval,8,Yes,Non-Compliant
+PO-2112,INT-1024,V008,SwiftShip Partners,2024-02-11,Logistics,HR,256707.98,Open,8,Yes,Compliant
+PO-2113,INT-1147,V007,DataMind Analytics,2024-01-22,Consulting,IT,207491.22,Pending Approval,18,No,Non-Compliant
+PO-2114,INT-1112,V007,DataMind Analytics,2024-02-05,Hardware,Marketing,135190.56,Open,9,Yes,Non-Compliant
+PO-2115,INT-1158,V007,DataMind Analytics,2024-01-26,Office Supplies,Finance,391550.65,Closed,10,No,Compliant
+PO-2116,INT-1085,V008,SwiftShip Partners,2024-02-26,Hardware,IT,153024.34,Cancelled,12,No,Compliant
+PO-2117,INT-1123,V006,EcoSupply Co,2024-02-10,Facilities,Operations,487138.46,Open,12,No,Non-Compliant
+PO-2118,INT-1084,V003,PrimeConsult Inc,2024-02-18,Consulting,Operations,146432.63,Closed,14,No,Non-Compliant
+PO-2119,INT-1175,V005,CloudSystems Ltd,2024-01-04,Consulting,Operations,57830.02,Closed,16,No,Non-Compliant
+PO-2120,INT-1173,V008,SwiftShip Partners,2024-03-04,Hardware,Legal,219789.02,Open,18,Yes,Compliant
+PO-2121,INT-1019,V003,PrimeConsult Inc,2024-02-27,Consulting,Legal,121768.56,Closed,18,No,Compliant
+PO-2122,INT-1010,V010,BuildRight Facilities,2024-02-16,Logistics,Operations,201001.74,Closed,20,No,Compliant
+PO-2123,INT-1166,V009,CapitalSoft,2024-01-06,Facilities,HR,457286.22,Open,10,Yes,Non-Compliant
+PO-2124,INT-1003,V010,BuildRight Facilities,2024-01-13,Facilities,Legal,323725.06,On Hold,12,No,Non-Compliant
+PO-2125,INT-1115,V005,CloudSystems Ltd,2024-02-17,Logistics,Marketing,373679.66,Closed,18,No,Non-Compliant
+PO-2126,INT-1027,V007,DataMind Analytics,2024-02-07,Facilities,Operations,294706.39,Closed,12,Yes,Compliant
+PO-2127,INT-1117,V007,DataMind Analytics,2024-01-27,Software,IT,415827.55,Pending Approval,12,Yes,Compliant
+PO-2128,INT-1018,V009,CapitalSoft,2024-02-08,Consulting,Operations,238605.1,Closed,18,No,Compliant
+PO-2129,INT-1133,V001,TechNova Solutions,2024-01-23,Software,Legal,12269.97,Closed,8,Yes,Non-Compliant
+PO-2130,INT-1048,V009,CapitalSoft,2024-02-25,Consulting,Marketing,280364.63,On Hold,10,No,Non-Compliant
+PO-2131,INT-1002,V007,DataMind Analytics,2024-01-28,Facilities,IT,307439.36,Open,16,No,Compliant
+PO-2132,INT-1094,V004,OfficeEdge Corp,2024-02-11,Facilities,Finance,404556.16,Open,8,No,Non-Compliant
+PO-2133,INT-1100,V004,OfficeEdge Corp,2024-02-20,Software,Operations,131914.34,Cancelled,15,Yes,Compliant
+PO-2134,INT-1152,V010,BuildRight Facilities,2024-01-11,Consulting,IT,176640.48,Closed,9,Yes,Compliant
+PO-2135,INT-1100,V003,PrimeConsult Inc,2024-02-23,Software,Finance,120047.79,Open,12,Yes,Compliant
+PO-2136,INT-1143,V010,BuildRight Facilities,2024-01-22,Logistics,Marketing,192471.27,Open,17,No,Non-Compliant
+PO-2137,INT-1003,V008,SwiftShip Partners,2024-03-03,Hardware,Finance,94362.19,Pending Approval,16,Yes,Compliant
+PO-2138,INT-1107,V003,PrimeConsult Inc,2024-02-26,Office Supplies,Marketing,481950.72,Closed,14,No,Compliant
+PO-2139,INT-1071,V008,SwiftShip Partners,2024-01-29,Software,Marketing,283133.5,Pending Approval,10,Yes,Non-Compliant
+PO-2140,INT-1131,V009,CapitalSoft,2024-01-15,Hardware,Finance,390589.36,Closed,19,No,Compliant
+PO-2141,INT-1195,V010,BuildRight Facilities,2024-02-26,Consulting,IT,387781.4,Pending Approval,12,No,Non-Compliant
+PO-2142,INT-1009,V009,CapitalSoft,2024-02-27,Office Supplies,Marketing,52105.8,Pending Approval,19,Yes,Compliant
+PO-2143,INT-1189,V005,CloudSystems Ltd,2024-02-14,Software,Finance,220095.88,On Hold,19,Yes,Non-Compliant
+PO-2144,INT-1146,V010,BuildRight Facilities,2024-02-14,Office Supplies,Legal,83824.83,Open,10,Yes,Non-Compliant
+PO-2145,INT-1147,V009,CapitalSoft,2024-02-04,Logistics,Finance,269845.5,Closed,18,Yes,Compliant
+PO-2146,INT-1168,V009,CapitalSoft,2024-01-17,Software,Legal,68658.86,Pending Approval,13,Yes,Compliant
+PO-2147,INT-1037,V003,PrimeConsult Inc,2024-02-04,Hardware,Marketing,355986.03,Pending Approval,19,No,Compliant
+PO-2148,INT-1132,V007,DataMind Analytics,2024-02-05,Office Supplies,Operations,38682.62,Pending Approval,19,Yes,Compliant
+PO-2149,INT-1163,V006,EcoSupply Co,2024-02-15,Office Supplies,Operations,164317.35,Open,19,Yes,Compliant
+PO-2150,INT-1083,V002,GreenBridge Logistics,2024-02-06,Office Supplies,HR,109697.14,Closed,10,No,Compliant
+PO-2151,INT-1026,V006,EcoSupply Co,2024-02-28,Logistics,HR,66166.53,Cancelled,3,No,Compliant
+PO-2152,INT-1167,V001,TechNova Solutions,2024-02-08,Hardware,IT,221201.69,Open,4,No,Compliant
+PO-2153,INT-1102,V003,PrimeConsult Inc,2024-02-09,Software,Finance,327639.39,Open,3,No,Compliant
+PO-2154,INT-1034,V004,OfficeEdge Corp,2024-01-29,Facilities,Operations,46508.39,Open,2,No,Compliant
+PO-2155,INT-1123,V009,CapitalSoft,2024-01-10,Office Supplies,Legal,5634.19,Closed,1,No,Compliant
+PO-2156,INT-1036,V004,OfficeEdge Corp,2024-02-18,Software,Operations,365650.93,Open,3,No,Compliant
+PO-2157,INT-1113,V003,PrimeConsult Inc,2024-02-14,Facilities,Legal,72283.68,Closed,1,Yes,Compliant
+PO-2158,INT-1026,V004,OfficeEdge Corp,2024-01-18,Facilities,Legal,76535.69,Closed,4,No,Compliant
+PO-2159,INT-1071,V002,GreenBridge Logistics,2024-01-11,Facilities,HR,192631.92,On Hold,3,No,Compliant
+PO-2160,INT-1133,V004,OfficeEdge Corp,2024-03-06,Logistics,HR,300403.93,Closed,1,No,Compliant
+PO-2161,INT-1029,V004,OfficeEdge Corp,2024-01-31,Office Supplies,Legal,148475.48,Open,2,No,Non-Compliant
+PO-2162,INT-1034,V008,SwiftShip Partners,2024-02-19,Logistics,Legal,36434.99,Cancelled,1,No,Compliant
+PO-2163,INT-1151,V010,BuildRight Facilities,2024-01-09,Consulting,Operations,273631.75,Open,4,No,Compliant
+PO-2164,INT-1161,V001,TechNova Solutions,2024-03-05,Hardware,Finance,20873.6,Open,4,Yes,Compliant
+PO-2165,INT-1080,V007,DataMind Analytics,2024-01-11,Facilities,Operations,201736.43,Closed,2,No,Compliant
+PO-2166,INT-1187,V009,CapitalSoft,2024-01-31,Hardware,Marketing,268658.7,Closed,1,No,Non-Compliant
+PO-2167,INT-1031,V001,TechNova Solutions,2024-01-02,Software,Marketing,462389.25,Open,1,No,Compliant
+PO-2168,INT-1033,V003,PrimeConsult Inc,2024-02-04,Software,Legal,82752.48,On Hold,3,No,Compliant
+PO-2169,INT-1128,V002,GreenBridge Logistics,2024-02-28,Consulting,IT,403746.82,Open,1,No,Compliant
+PO-2170,INT-1198,V009,CapitalSoft,2024-01-14,Software,Finance,250305.39,Closed,3,No,Compliant
+PO-2171,INT-1063,V010,BuildRight Facilities,2024-01-06,Facilities,Legal,58551.47,Pending Approval,1,No,Compliant
+PO-2172,INT-1058,V008,SwiftShip Partners,2024-02-11,Office Supplies,Finance,460193.05,Open,1,Yes,Non-Compliant
+PO-2173,INT-1046,V004,OfficeEdge Corp,2024-01-29,Facilities,Operations,160647.63,Pending Approval,3,No,Compliant
+PO-2174,INT-1023,V009,CapitalSoft,2024-02-28,Office Supplies,IT,35394.29,Closed,3,No,Compliant
+PO-2175,INT-1152,V001,TechNova Solutions,2024-03-04,Hardware,Finance,146505.95,Pending Approval,2,No,Compliant
+PO-2176,INT-1060,V004,OfficeEdge Corp,2024-02-14,Logistics,Legal,380480.63,Open,1,No,Compliant
+PO-2177,INT-1136,V001,TechNova Solutions,2024-01-31,Software,Finance,379705.65,Closed,3,No,Compliant
+PO-2178,INT-1060,V007,DataMind Analytics,2024-02-22,Software,Operations,486307.06,Open,3,No,Compliant
+PO-2179,INT-1152,V006,EcoSupply Co,2024-01-08,Facilities,Operations,43366.31,Open,2,No,Compliant
+PO-2180,INT-1082,V007,DataMind Analytics,2024-02-27,Hardware,Legal,119149.1,Open,3,No,Compliant
+PO-2181,INT-1043,V005,CloudSystems Ltd,2024-02-27,Software,Marketing,471833.79,Open,1,No,Compliant
+PO-2182,INT-1119,V008,SwiftShip Partners,2024-02-03,Office Supplies,Finance,61247.63,Closed,2,No,Compliant
+PO-2183,INT-1038,V002,GreenBridge Logistics,2024-01-12,Hardware,IT,403990.86,Closed,1,No,Compliant
+PO-2184,INT-1104,V004,OfficeEdge Corp,2024-02-27,Office Supplies,Finance,257216.38,Closed,3,No,Compliant
+PO-2185,INT-1016,V009,CapitalSoft,2024-01-29,Logistics,Legal,125676.46,Closed,2,No,Compliant
+PO-2186,INT-1020,V003,PrimeConsult Inc,2024-01-03,Office Supplies,Marketing,186747.63,Closed,1,Yes,Compliant
+PO-2187,INT-1119,V002,GreenBridge Logistics,2024-01-07,Facilities,Marketing,222272.23,Open,3,No,Compliant
+PO-2188,INT-1045,V003,PrimeConsult Inc,2024-02-15,Office Supplies,HR,411021.02,Closed,1,No,Non-Compliant
+PO-2189,INT-1166,V004,OfficeEdge Corp,2024-02-07,Consulting,Marketing,140647.42,Cancelled,1,Yes,Compliant
+PO-2190,INT-1052,V008,SwiftShip Partners,2024-02-01,Logistics,Operations,240036.43,Open,4,No,Non-Compliant
+PO-2191,INT-1100,V009,CapitalSoft,2024-02-04,Office Supplies,IT,391175.97,Closed,4,No,Compliant
+PO-2192,INT-1136,V003,PrimeConsult Inc,2024-02-15,Consulting,IT,298961.06,Open,3,No,Non-Compliant
+PO-2193,INT-1196,V010,BuildRight Facilities,2024-01-29,Hardware,Marketing,50967.03,Closed,3,Yes,Compliant
+PO-2194,INT-1152,V010,BuildRight Facilities,2024-02-10,Consulting,Operations,467667.81,On Hold,2,No,Compliant
+PO-2195,INT-1127,V006,EcoSupply Co,2024-02-09,Software,HR,352022.99,Closed,2,Yes,Compliant
+PO-2196,INT-1001,V003,PrimeConsult Inc,2024-02-12,Software,Operations,46038.43,Open,2,No,Non-Compliant
+PO-2197,INT-1038,V010,BuildRight Facilities,2024-01-19,Hardware,Marketing,171038.76,Open,3,No,Compliant
+PO-2198,INT-1087,V002,GreenBridge Logistics,2024-02-08,Consulting,HR,480318.82,Closed,4,Yes,Compliant
+PO-2199,INT-1182,V006,EcoSupply Co,2024-02-15,Hardware,Marketing,366443.66,Closed,4,No,Compliant
+PO-2200,INT-1187,V004,OfficeEdge Corp,2024-01-01,Logistics,Legal,407412.66,Closed,3,No,Compliant
+PO-2201,INT-1128,V010,BuildRight Facilities,2024-01-19,Logistics,Operations,17158.99,Closed,2,Yes,Compliant
+PO-2202,INT-1115,V006,EcoSupply Co,2024-01-02,Software,Legal,119759.97,On Hold,2,No,Compliant
+PO-2203,INT-1099,V005,CloudSystems Ltd,2024-02-26,Hardware,Marketing,346894.86,Closed,1,No,Compliant
+PO-2204,INT-1148,V007,DataMind Analytics,2024-01-29,Office Supplies,Marketing,247047.91,Closed,4,No,Non-Compliant
+PO-2205,INT-1027,V003,PrimeConsult Inc,2024-01-10,Software,Operations,399798.09,Open,1,No,Compliant
+PO-2206,INT-1181,V006,EcoSupply Co,2024-01-04,Office Supplies,Marketing,81291.34,Open,1,No,Non-Compliant
+PO-2207,INT-1053,V007,DataMind Analytics,2024-01-25,Hardware,Legal,304051.5,Closed,1,No,Compliant
+PO-2208,INT-1061,V007,DataMind Analytics,2024-01-13,Logistics,Legal,361297.01,Pending Approval,3,No,Compliant
+PO-2209,INT-1110,V001,TechNova Solutions,2024-01-12,Logistics,Operations,275281.65,Closed,1,No,Compliant
+PO-2210,INT-1164,V005,CloudSystems Ltd,2024-02-07,Facilities,Legal,300507.55,Open,1,No,Compliant
+PO-2211,INT-1165,V002,GreenBridge Logistics,2024-02-19,Software,Operations,154868.35,Closed,4,No,Compliant
+PO-2212,INT-1068,V003,PrimeConsult Inc,2024-01-29,Office Supplies,Finance,185331.43,Closed,3,No,Non-Compliant
+PO-2213,INT-1139,V005,CloudSystems Ltd,2024-02-22,Software,HR,76414.21,Closed,1,No,Compliant
+PO-2214,INT-1147,V010,BuildRight Facilities,2024-01-31,Logistics,Marketing,31430.89,Closed,4,Yes,Non-Compliant
+PO-2215,INT-1031,V008,SwiftShip Partners,2024-02-27,Software,Finance,198007.38,Cancelled,1,Yes,Compliant
+PO-2216,INT-1052,V003,PrimeConsult Inc,2024-01-19,Hardware,Marketing,404421.9,Open,4,No,Non-Compliant
+PO-2217,INT-1143,V010,BuildRight Facilities,2024-02-20,Consulting,Finance,455491.44,Cancelled,1,No,Non-Compliant
+PO-2218,INT-1029,V009,CapitalSoft,2024-02-23,Consulting,Finance,260324.4,Cancelled,1,Yes,Non-Compliant
+PO-2219,INT-1074,V003,PrimeConsult Inc,2024-02-14,Logistics,Marketing,294379.13,Pending Approval,1,No,Compliant
+PO-2220,INT-1071,V007,DataMind Analytics,2024-02-21,Office Supplies,Finance,327739.05,Closed,4,No,Compliant
+PO-2221,INT-1013,V003,PrimeConsult Inc,2024-03-01,Logistics,HR,340725.62,Closed,4,No,Compliant
+PO-2222,INT-1179,V005,CloudSystems Ltd,2024-01-13,Software,Finance,169595.17,Pending Approval,3,No,Non-Compliant
+PO-2223,INT-1155,V004,OfficeEdge Corp,2024-01-12,Consulting,Marketing,487135.49,Closed,3,No,Non-Compliant
+PO-2224,INT-1015,V004,OfficeEdge Corp,2024-03-06,Hardware,Operations,456802.97,Closed,4,Yes,Compliant
+PO-2225,INT-1052,V003,PrimeConsult Inc,2024-01-08,Consulting,IT,355075.13,Closed,1,No,Compliant
+PO-2226,INT-1119,V004,OfficeEdge Corp,2024-03-05,Office Supplies,IT,26229.08,Closed,2,No,Compliant
+PO-2227,INT-1046,V007,DataMind Analytics,2024-03-01,Software,Legal,340906.01,Open,4,Yes,Non-Compliant
+PO-2228,INT-1008,V010,BuildRight Facilities,2024-02-19,Consulting,HR,172780.25,Pending Approval,3,No,Compliant
+PO-2229,INT-1069,V001,TechNova Solutions,2024-02-22,Logistics,Marketing,390135.24,Open,2,No,Compliant
+PO-2230,INT-1058,V009,CapitalSoft,2024-02-02,Facilities,IT,5440.1,Cancelled,2,Yes,Compliant
+PO-2231,INT-1118,V010,BuildRight Facilities,2024-02-02,Facilities,Finance,483545.2,Closed,4,No,Compliant
+PO-2232,INT-1002,V004,OfficeEdge Corp,2024-03-06,Consulting,Operations,338920.88,Pending Approval,4,Yes,Compliant
+PO-2233,INT-1087,V006,EcoSupply Co,2024-02-05,Facilities,HR,297292.5,Open,1,No,Compliant
+PO-2234,INT-1133,V006,EcoSupply Co,2024-01-31,Consulting,Finance,328403.68,On Hold,3,No,Compliant
+PO-2235,INT-1067,V001,TechNova Solutions,2024-02-23,Office Supplies,HR,330604.63,Closed,1,No,Compliant
+PO-2236,INT-1176,V007,DataMind Analytics,2024-03-01,Facilities,Operations,18624.18,Pending Approval,2,No,Compliant
+PO-2237,INT-1121,V006,EcoSupply Co,2024-01-17,Consulting,HR,422864.2,Pending Approval,2,No,Compliant
+PO-2238,INT-1091,V005,CloudSystems Ltd,2024-01-29,Logistics,Legal,381696.19,Open,3,No,Compliant
+PO-2239,INT-1014,V005,CloudSystems Ltd,2024-01-10,Consulting,Operations,186469.53,Closed,4,No,Non-Compliant
+PO-2240,INT-1039,V008,SwiftShip Partners,2024-01-18,Logistics,Marketing,60788.15,Closed,3,No,Compliant
+PO-2241,INT-1184,V004,OfficeEdge Corp,2024-01-24,Office Supplies,Finance,493608.61,Cancelled,4,No,Compliant
+PO-2242,INT-1071,V002,GreenBridge Logistics,2024-01-27,Consulting,Operations,315885.35,Open,1,No,Non-Compliant
+PO-2243,INT-1163,V003,PrimeConsult Inc,2024-02-24,Hardware,HR,245298.97,Pending Approval,1,No,Non-Compliant
+PO-2244,INT-1083,V007,DataMind Analytics,2024-01-25,Office Supplies,Operations,192274.89,Open,2,No,Compliant
+PO-2245,INT-1027,V001,TechNova Solutions,2024-02-19,Software,Legal,313716.78,Open,3,No,Compliant
+PO-2246,INT-1187,V009,CapitalSoft,2024-02-13,Consulting,HR,84343.07,Pending Approval,3,No,Non-Compliant
+PO-2247,INT-1104,V007,DataMind Analytics,2024-01-03,Hardware,Legal,172023.69,Cancelled,3,No,Compliant
+PO-2248,INT-1032,V004,OfficeEdge Corp,2024-02-16,Facilities,Marketing,492454.88,Open,1,Yes,Compliant
+PO-2249,INT-1170,V001,TechNova Solutions,2024-01-14,Facilities,Operations,128638.8,Closed,1,Yes,Compliant
+PO-2250,INT-1122,V001,TechNova Solutions,2024-01-20,Facilities,IT,58779.12,Closed,1,Yes,Compliant
+PO-2251,INT-1160,V004,OfficeEdge Corp,2024-01-18,Facilities,Legal,315525.36,Closed,1,Yes,Compliant
+PO-2252,INT-1051,V007,DataMind Analytics,2024-01-26,Logistics,IT,359664.35,Open,1,No,Non-Compliant
+PO-2253,INT-1054,V005,CloudSystems Ltd,2024-03-02,Hardware,HR,179603.0,Closed,2,No,Non-Compliant
+PO-2254,INT-1039,V006,EcoSupply Co,2024-01-12,Software,Marketing,7361.95,Open,1,Yes,Non-Compliant
+PO-2255,INT-1068,V009,CapitalSoft,2024-02-29,Facilities,IT,362064.55,Cancelled,2,No,Compliant
+PO-2256,INT-1190,V001,TechNova Solutions,2024-01-15,Hardware,IT,437196.08,Cancelled,3,No,Non-Compliant
+PO-2257,INT-1113,V002,GreenBridge Logistics,2024-02-04,Software,IT,426147.36,Closed,2,No,Compliant
+PO-2258,INT-1177,V002,GreenBridge Logistics,2024-03-02,Consulting,Finance,92251.84,Closed,4,No,Non-Compliant
+PO-2259,INT-1107,V007,DataMind Analytics,2024-03-02,Hardware,Legal,57415.22,Closed,1,No,Compliant
+PO-2260,INT-1176,V010,BuildRight Facilities,2024-01-17,Office Supplies,Legal,91449.02,Closed,3,Yes,Compliant
+PO-2261,INT-1004,V008,SwiftShip Partners,2024-01-29,Software,Operations,443909.37,Closed,1,No,Compliant
+PO-2262,INT-1089,V006,EcoSupply Co,2024-02-19,Logistics,HR,344432.58,Closed,4,No,Non-Compliant
+PO-2263,INT-1127,V003,PrimeConsult Inc,2024-01-22,Logistics,HR,28228.49,Closed,2,Yes,Non-Compliant
+PO-2264,INT-1141,V002,GreenBridge Logistics,2024-02-18,Consulting,Operations,121205.02,On Hold,1,Yes,Compliant
+PO-2265,INT-1115,V007,DataMind Analytics,2024-02-10,Software,Marketing,230088.2,Pending Approval,4,No,Non-Compliant
+PO-2266,INT-1024,V002,GreenBridge Logistics,2024-02-08,Facilities,Operations,327033.13,Open,4,No,Compliant
+PO-2267,INT-1058,V009,CapitalSoft,2024-02-28,Hardware,HR,327643.4,Closed,3,No,Compliant
+PO-2268,INT-1025,V006,EcoSupply Co,2024-01-29,Logistics,HR,300375.62,Pending Approval,3,No,Compliant
+PO-2269,INT-1180,V001,TechNova Solutions,2024-01-14,Consulting,Finance,415112.06,On Hold,3,Yes,Compliant
+PO-2270,INT-1157,V001,TechNova Solutions,2024-01-26,Office Supplies,Marketing,71084.14,Pending Approval,4,No,Compliant
+PO-2271,INT-1194,V004,OfficeEdge Corp,2024-02-23,Office Supplies,IT,108579.16,Pending Approval,2,No,Compliant
+PO-2272,INT-1128,V001,TechNova Solutions,2024-01-01,Facilities,Legal,294816.74,Pending Approval,4,No,Compliant
+PO-2273,INT-1178,V009,CapitalSoft,2024-01-23,Software,Legal,277059.94,Closed,4,Yes,Compliant
+PO-2274,INT-1108,V003,PrimeConsult Inc,2024-02-01,Office Supplies,IT,329103.38,Closed,3,Yes,Non-Compliant
+PO-2275,INT-1155,V005,CloudSystems Ltd,2024-03-06,Consulting,Operations,485275.33,Closed,2,No,Non-Compliant
+PO-2276,INT-1160,V005,CloudSystems Ltd,2024-02-07,Logistics,Legal,430493.07,Pending Approval,2,No,Compliant
+PO-2277,INT-1182,V006,EcoSupply Co,2024-01-15,Hardware,Legal,490686.41,Closed,2,Yes,Compliant
+PO-2278,INT-1109,V006,EcoSupply Co,2024-01-02,Office Supplies,HR,291820.33,Cancelled,4,Yes,Compliant
+PO-2279,INT-1193,V009,CapitalSoft,2024-01-21,Software,IT,191054.29,Open,1,No,Compliant
+PO-2280,INT-1092,V005,CloudSystems Ltd,2024-02-27,Consulting,Legal,74067.77,Open,3,No,Compliant
+PO-2281,INT-1178,V002,GreenBridge Logistics,2024-01-07,Facilities,HR,370006.75,Cancelled,4,No,Compliant
+PO-2282,INT-1004,V007,DataMind Analytics,2024-02-02,Office Supplies,Operations,478394.28,On Hold,3,Yes,Compliant
+PO-2283,INT-1199,V004,OfficeEdge Corp,2024-01-25,Office Supplies,HR,415161.76,Cancelled,3,Yes,Compliant
+PO-2284,INT-1097,V005,CloudSystems Ltd,2024-01-06,Hardware,Operations,491743.21,Open,2,Yes,Compliant
+PO-2285,INT-1120,V007,DataMind Analytics,2024-01-20,Logistics,Finance,132855.56,Open,3,No,Compliant
+PO-2286,INT-1019,V001,TechNova Solutions,2024-02-10,Consulting,Marketing,298843.29,Pending Approval,3,No,Compliant
+PO-2287,INT-1024,V009,CapitalSoft,2024-02-14,Hardware,Marketing,260782.54,Pending Approval,2,No,Non-Compliant
+PO-2288,INT-1144,V004,OfficeEdge Corp,2024-01-02,Facilities,Marketing,166609.87,Closed,2,Yes,Non-Compliant
+PO-2289,INT-1098,V002,GreenBridge Logistics,2024-01-15,Consulting,Legal,223387.96,Cancelled,2,No,Compliant
+PO-2290,INT-1125,V007,DataMind Analytics,2024-01-06,Logistics,Finance,362263.83,Open,3,Yes,Non-Compliant
+PO-2291,INT-1161,V005,CloudSystems Ltd,2024-01-09,Hardware,Legal,160836.07,Open,1,No,Compliant
+PO-2292,INT-1138,V004,OfficeEdge Corp,2024-02-25,Facilities,Legal,387017.55,Cancelled,4,No,Compliant
+PO-2293,INT-1019,V002,GreenBridge Logistics,2024-01-07,Facilities,Legal,77723.53,Closed,3,No,Compliant
+PO-2294,INT-1116,V003,PrimeConsult Inc,2024-02-21,Logistics,Finance,36150.6,Pending Approval,3,No,Non-Compliant
+PO-2295,INT-1194,V007,DataMind Analytics,2024-01-06,Software,Finance,195361.43,Open,1,Yes,Compliant
+PO-2296,INT-1073,V002,GreenBridge Logistics,2024-02-26,Logistics,Finance,53961.64,Pending Approval,3,Yes,Compliant
+PO-2297,INT-1140,V007,DataMind Analytics,2024-02-07,Facilities,Operations,16378.76,Open,2,No,Non-Compliant
+PO-2298,INT-1032,V003,PrimeConsult Inc,2024-01-06,Facilities,Finance,443602.08,On Hold,3,No,Compliant
+PO-2299,INT-1192,V001,TechNova Solutions,2024-02-14,Logistics,HR,197646.77,Closed,1,No,Compliant
+PO-2300,INT-1050,V004,OfficeEdge Corp,2024-01-15,Facilities,Operations,425877.97,Open,2,No,Compliant

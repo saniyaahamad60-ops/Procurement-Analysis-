@@ -1,0 +1,11 @@
+vendor_id,vendor_name,industry,country,esg_score,environmental_score,social_score,governance_score,last_review_date,review_cycle_days,violations_found,status,spend_ytd
+V001,TechNova Solutions,Technology,UK,82.3,86,71,90,2024-03-21,3,0,Approved,1720572.17
+V002,GreenBridge Logistics,Logistics,UK,77.3,78,59,95,2024-04-11,3,3,Flagged,1794578.76
+V003,PrimeConsult Inc,Consulting,UK,90.7,93,86,93,2024-05-13,5,1,Approved,1146237.03
+V004,OfficeEdge Corp,Office Supplies,UK,84.0,82,93,77,2024-03-01,10,4,Blacklisted,511098.04
+V005,CloudSystems Ltd,Technology,Singapore,71.3,78,47,89,2024-03-01,10,2,Under Review,1666344.99
+V006,EcoSupply Co,Facilities,France,56.3,67,53,49,2024-04-14,3,1,Approved,1940147.72
+V007,DataMind Analytics,Consulting,UK,76.0,56,95,77,2024-03-22,3,3,Flagged,1071605.24
+V008,SwiftShip Partners,Logistics,Germany,70.3,74,67,70,2024-04-02,10,1,Under Review,1760072.75
+V009,CapitalSoft,Software,USA,72.7,70,85,63,2024-01-14,10,2,Approved,1294341.2
+V010,BuildRight Facilities,Facilities,Australia,85.3,84,90,82,2024-02-01,5,2,Under Review,625444.32

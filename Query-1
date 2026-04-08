@@ -1,0 +1,3 @@
+"period","total_requests","avg_days_to_resolve","avg_followups","total_spend_requested","approval_rate_pct"
+"Pre-AI","100","28.9","5.1","6745920","54.0"
+"Post-AI","100","1.7","0.5","7817822","58.0"
